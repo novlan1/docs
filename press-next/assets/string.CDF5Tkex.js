@@ -1,0 +1,1 @@
+function r(r,e){void 0===r&&(r=""),void 0===e&&(e=!1);var n=/-(\w)/g,t=function(r,e){return void 0===r&&(r=""),r.replace(e,(function(r,e){return e?e.toUpperCase():""}))};return e?t(t(r,n),/_(\w)/g):t(r,n)}function e(r){return r.charAt(0).toUpperCase()+r.slice(1)}export{r as a,e as c};

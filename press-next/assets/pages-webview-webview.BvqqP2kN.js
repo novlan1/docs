@@ -1,0 +1,1 @@
+import{_ as o,c as s,f as t,p as e,o as r}from"./index-DdqTp3oi.js";const n=o({data:()=>({url:""}),onLoad(o){this.url=decodeURIComponent(o.url)},mounted(){},methods:{}},[["render",function(o,n,a,d,u,l){const c=e;return r(),s("div",{style:{height:"100%"}},[t(c,{src:u.url},null,8,["src"])])}]]);export{n as default};
