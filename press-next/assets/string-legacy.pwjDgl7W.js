@@ -1,1 +1,0 @@
-System.register([],(function(e,t){"use strict";return{execute:function(){e({a:function(e,t){void 0===e&&(e=""),void 0===t&&(t=!1);var r=/-(\w)/g,n=function(e,t){return void 0===e&&(e=""),e.replace(t,(function(e,t){return t?t.toUpperCase():""}))};return t?n(n(e,r),/_(\w)/g):n(e,r)},c:function(e){return e.charAt(0).toUpperCase()+e.slice(1)}})}}}));
