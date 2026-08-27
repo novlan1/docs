@@ -1,0 +1,1 @@
+import{v as s,c as a,a as e,o as p}from"./index-DzBqtkS7.js";import{E as t}from"./press-gp-empty.0uPgMxTU.js";const m=s({__name:"gp-empty",setup:s=>(s,m)=>(p(),a("div",{class:"demo-wrap"},[e(t),e(t,{title:"还没有数据"})]))});export{m as default};
