@@ -1,0 +1,1 @@
+import{f as n}from"./index-DitmRcj9.js";import{d as a,c as r,u as c,r as t,o as s}from"./index-B6aENhBQ.js";const _=a({__name:"icon-project-card",setup(u){const o=t("novlan1"),e=()=>{console.log("logout")};return(l,m)=>(s(),r(c(n),{name:o.value,onLogout:e},null,8,["name"]))}});export{_ as default};

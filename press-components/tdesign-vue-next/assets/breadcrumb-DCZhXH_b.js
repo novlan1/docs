@@ -1,0 +1,1 @@
+import{d as r,o as e,c as o,u as a}from"./index-D_fD2fLu.js";import{B as t}from"./index-DVAX5G4g.js";import"./install-BLhFMsys.js";const _=r({__name:"breadcrumb",setup(c){return(m,n)=>(e(),o(a(t)))}});export{_ as default};

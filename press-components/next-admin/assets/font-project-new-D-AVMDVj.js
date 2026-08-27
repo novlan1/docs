@@ -1,0 +1,1 @@
+import{g as n}from"./index-DitmRcj9.js";import{d as t,c as a,u as r,r as s,o as c}from"./index-B6aENhBQ.js";const _=t({__name:"font-project-new",setup(u){const o=s("novlan1"),e=()=>{console.log("logout")};return(l,m)=>(c(),a(r(n),{name:o.value,onLogout:e},null,8,["name"]))}});export{_ as default};

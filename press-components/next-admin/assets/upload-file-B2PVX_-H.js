@@ -1,0 +1,1 @@
+import{c as a}from"./index-DitmRcj9.js";import{d as n,c as r,u as s,r as t,o as l}from"./index-B6aENhBQ.js";const _=n({__name:"upload-file",setup(c){const o=t("novlan1"),e=()=>{console.log("logout")};return(u,m)=>(l(),r(s(a),{name:o.value,onLogout:e},null,8,["name"]))}});export{_ as default};

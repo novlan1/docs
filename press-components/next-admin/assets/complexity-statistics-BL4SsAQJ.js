@@ -1,0 +1,1 @@
+import{a as t}from"./index-DitmRcj9.js";import{d as a,c as s,u as n,r as c,o as r}from"./index-B6aENhBQ.js";const _=a({__name:"complexity-statistics",setup(l){const o=c("novlan1"),e=()=>{console.log("logout")};return(m,u)=>(r(),s(n(t),{name:o.value,onLogout:e},null,8,["name"]))}});export{_ as default};

@@ -1,0 +1,1 @@
+import{b as n}from"./index-DitmRcj9.js";import{d as t,c as s,u as a,r as c,o as r}from"./index-B6aENhBQ.js";const _=t({__name:"component-statistics",setup(m){const o=c("novlan1"),e=()=>{console.log("logout")};return(u,l)=>(r(),s(a(n),{name:o.value,onLogout:e},null,8,["name"]))}});export{_ as default};

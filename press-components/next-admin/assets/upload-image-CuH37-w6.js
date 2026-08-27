@@ -1,0 +1,1 @@
+import{U as a}from"./index-DitmRcj9.js";import{d as n,c as r,u as s,r as t,o as c}from"./index-B6aENhBQ.js";const f=n({__name:"upload-image",setup(l){const o=t("novlan1"),e=()=>{console.log("logout")};return(m,u)=>(c(),r(s(a),{name:o.value,onLogout:e},null,8,["name"]))}});export{f as default};

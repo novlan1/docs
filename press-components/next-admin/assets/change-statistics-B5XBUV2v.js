@@ -1,0 +1,1 @@
+import{C as a}from"./index-DitmRcj9.js";import{d as n,c as t,u as s,r as c,o as r}from"./index-B6aENhBQ.js";const _=n({__name:"change-statistics",setup(u){const o=c("novlan1"),e=()=>{console.log("logout")};return(l,m)=>(r(),t(s(a),{name:o.value,onLogout:e},null,8,["name"]))}});export{_ as default};

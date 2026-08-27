@@ -1,0 +1,1 @@
+import{e as n}from"./index-DitmRcj9.js";import{d as a,c as t,u as s,r,o as m}from"./index-B6aENhBQ.js";const _=a({__name:"whitelist-management",setup(c){const e=r("novlan1"),o=()=>{console.log("logout")};return(l,u)=>(m(),t(s(n),{name:e.value,onLogout:o},null,8,["name"]))}});export{_ as default};

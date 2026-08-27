@@ -1,0 +1,1 @@
+import{d as n}from"./index-DitmRcj9.js";import{d as a,c as s,u as t,r,o as c}from"./index-B6aENhBQ.js";const f=a({__name:"component-publish",setup(u){const o=r("novlan1"),e=()=>{console.log("logout")};return(l,m)=>(c(),s(t(n),{name:o.value,onLogout:e},null,8,["name"]))}});export{f as default};
