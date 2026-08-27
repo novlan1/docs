@@ -1,0 +1,1 @@
+function a(){return{desc:"为方便成绩等页面内容展示，授权我们获取您的账号昵称",defaultAvatarUrl:"https://image-1251917893.file.myqcloud.com/general-match-components/img/common/avatar/default-avatar.png",nicknamePlaceholder:"请输入昵称",confirmText:"确认"}}export{a as g};

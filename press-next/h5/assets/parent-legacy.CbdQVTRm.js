@@ -1,0 +1,1 @@
+System.register([],function(t,e){"use strict";return{execute:function(){function e(){for(var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:void 0,e=this.$parent;e;){if(!e.$options||e.$options.name===t)return e;e=e.$parent}return!1}t("f",function(t,n){var r=e.call(t,"PressFormItem"),i=e.call(t,"PressForm");r&&i&&i.validateField(r.prop,function(){},n)})}}});

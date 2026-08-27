@@ -1,0 +1,1 @@
+System.register(["./index-legacy-B_DRTstP.js","./press-gp-empty-legacy.B2lZudHx.js"],function(e,t){"use strict";var n,r,s,u,c;return{setters:[function(e){n=e.v,r=e.c,s=e.a,u=e.o},function(e){c=e.E}],execute:function(){e("default",n({__name:"gp-empty",setup:function(e){return function(e,t){return u(),r("div",{class:"demo-wrap"},[s(c),s(c,{title:"还没有数据"})])}}}))}}});
