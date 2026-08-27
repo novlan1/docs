@@ -1,0 +1,1 @@
+function t(t=void 0){let o=this.$parent;for(;o;){if(!o.$options||o.$options.name===t)return o;o=o.$parent}return!1}function o(o,r){const e=t.call(o,"PressFormItem"),n=t.call(o,"PressForm");e&&n&&n.validateField(e.prop,()=>{},r)}export{o as f};
