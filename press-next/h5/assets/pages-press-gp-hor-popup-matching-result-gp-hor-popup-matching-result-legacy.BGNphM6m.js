@@ -1,1 +1,0 @@
-System.register(["./index-legacy-D10rM29f.js"],function(e,t){"use strict";var n,r,c;return{setters:[function(e){n=e._,r=e.c,c=e.o}],execute:function(){e("default",n({},[["render",function(e,t){return c(),r("div",{class:"demo-wrap"})}]]))}}});
